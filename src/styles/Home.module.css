@@ -1,0 +1,13 @@
+
+.navBar {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: rgb(242, 242, 243);
+}
+
+.navBar > img {
+  height: 100%;
+}
